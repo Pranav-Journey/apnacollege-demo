@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my First Git Repository.
 <br>
-Author - Pranav vishwakarma
+Author - Pranav (Apna College)
